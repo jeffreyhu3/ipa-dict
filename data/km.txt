@@ -70,7 +70,7 @@
 កម្រ	/kɑmrɑɑ/
 កម្រាល	/kɑmraal/
 កម្រាលព្រំ	/kɑmraal prum/
-កម្រាលឥដ្ឋ	/kɑmraal ʔǝt/
+កម្រាលឥដ្ឋ	/kɑmraal ʔət/
 កម្រិត	/kɑmrɨt/
 កម្រើក	/kɑmraək/
 កម្លាំង	/kɑmlaŋ/
@@ -115,7 +115,7 @@
 ការទូត	/kaa tuut/
 ការពារ	/kaapie/
 ការវះកាត់	/kaa veah kat/
-ការសិក្សា	/kaa sǝksaa/
+ការសិក្សា	/kaa səksaa/
 ការិយាល័យ	/kaareʔyaalay/
 ការី	/kaarii/
 ការ៉ុត	/kaarot/
@@ -157,7 +157,7 @@
 កូនមាន់	/koun moan/
 កូនសិស្ស	/koun səh/
 កូនសិស្សលោក	/koun səh look/
-កូនស្រី	/koun srǝy/
+កូនស្រី	/koun srəy/
 កូពី	/koupii/
 កូរ	/kou/
 កូរពោះ	/kou pʊəh/
@@ -205,7 +205,7 @@
 ក្មួយ	/kmuəy/
 ក្មេង	/kmeeŋ/
 ក្មេងប្រុស	/kmeeŋ proh/
-ក្មេងស្រី	/kmeeŋ srǝy/
+ក្មេងស្រី	/kmeeŋ srəy/
 ក្រ	/krɑɑ/
 ក្រចក	/krɑcɑɑk/
 ក្រចកដៃ	/krɑcɑɑk day/
@@ -240,7 +240,7 @@
 ក្រូចឆ្មារ	/krouc cmaa/
 ក្រូចថ្លុង	/krouc tloŋ/
 ក្រូចពោធិ៍សាត់	/krouc poosat/
-ក្រូចសើច	/krouc saǝc/
+ក្រូចសើច	/krouc saəc/
 ក្រៀម	/kriəm/
 ក្រៀមក្រំ	/kriəm krɑm/
 ក្រែង	/kraeŋ/
@@ -287,7 +287,7 @@
 ខាងណា	/kʰaaŋ naa/
 ខាងមុខ	/kʰaaŋ muk/
 ខាងលិច	/kʰaaŋ lɨc/
-ខាងលើ	/kʰaaŋ lǝǝ/
+ខាងលើ	/kʰaaŋ ləə/
 ខាត	/kʰaat/
 ខាន	/kʰaan/
 ខាប់	/kʰap/
@@ -444,7 +444,7 @@
 គ្រឿងញៀន	/krɨəŋ ɲiən/
 គ្រឿងទេស	/krɨəŋ teeh/
 គ្រឿងផ្សំ	/krɨəŋ psɑm/
-គ្រឿងស្រវឹង	/krɨəŋ srɑvǝŋ/
+គ្រឿងស្រវឹង	/krɨəŋ srɑvəŋ/
 គ្រែ	/krɛɛ/
 គ្រោះថ្នាក់	/krʊək tnak/
 គ្រោះថ្នាក់ចរាចរណ៍	/krʊək tnak cɑraacɑɑ/
@@ -463,7 +463,7 @@
 ងាក	/ŋiek/
 ងាប់	/ŋoap/
 ងាយ	/ŋiey/
-ងាយស្រួល	/ŋiey sruǝl/
+ងាយស្រួល	/ŋiey sruəl/
 ងុយគេង	/ŋuy keeŋ/
 ងុយដេក	/ŋuy deek/
 ងូត	/ŋuut/
@@ -644,7 +644,7 @@
 ចោល	/caol/
 ចោលឈូង	/caol cʰuuŋ/
 ចៅ	/cav/
-ចៅស្រី	/cav srǝy/
+ចៅស្រី	/cav srəy/
 ច្បាប់	/cbap/
 ច្បាម	/cbaam/
 ច្បាស់	/cbah/
@@ -665,7 +665,7 @@
 ច្រាស	/craah/
 ច្រាសដុសធ្មេញ	/craah doh tmɨɲ/
 ច្រូត	/crout/
-ច្រូតស្រូវ	/crout srǝv/
+ច្រូតស្រូវ	/crout srəv/
 ច្រើន	/craən/
 ច្រើនតែ	/craən tae/
 ច្រៀង	/crieŋ/
@@ -736,11 +736,11 @@
 ជំនួយការ	/cumnuəy kaa/
 ជំនួស	/cumnuəh/
 ជំនឿ	/cumnɨə/
-ជប់លៀង	/cup liǝŋ/
+ជប់លៀង	/cup liəŋ/
 ជប៉ុន	/ceaʔpon/
 ជម្រះ	/cumreah/
 ជម្រាបលា	/cumriep lie/
-ជម្រាបសួរ	/cumriep suǝ/
+ជម្រាបសួរ	/cumriep suə/
 ជម្រើស	/cumrəəh/
 ជ័រ	/coa/
 ជ័រកៅស៊ូ	/coa kav suu/
@@ -779,13 +779,13 @@
 ជាមួយនឹង	/cie muəy nɨŋ/
 ជាយក្រុង	/ciey kroŋ/
 ជាយថាហេតុ	/cie yeaʔtʰaa haet/
-ជាសះស្បើយ	/cie sah sbaǝy/
+ជាសះស្បើយ	/cie sah sbaəy/
 ជាស្រេច	/cie srac/
 ជិះ	/cih/
 ជិត	/cɨt/
 ជិតខាង	/cɨt kʰaaŋ/
 ជិតដល់	/cɨt dɑl/
-ជិតស្និទ្ធ	/cɨt snǝt/
+ជិតស្និទ្ធ	/cɨt snət/
 ជីដូន	/cii doun/
 ជីដូនជីតា	/cii doun cii taa/
 ជីតា	/cii taa/
@@ -898,7 +898,7 @@
 ដំរី	/dɑmrəy/
 ដល់	/dɑl/
 ដល់ពេលបច្ចុប្បន្ន	/dɑl peel paccopbɑn/
-ដល់ហើយ	/dɑl haǝy/
+ដល់ហើយ	/dɑl haəy/
 ដំឡូងបារាំង	/dɑmlouŋ baaraŋ/
 ដំឡើង	/dɑmlaəŋ/
 ដាំ	/dam/
@@ -917,7 +917,7 @@
 ដិត	/dət/
 ដី	/dəy/
 ដីល្បាប់	/dəy lbap/
-ដីឥដ្ឋ	/dəy ʔǝt/
+ដីឥដ្ឋ	/dəy ʔət/
 ដឹក	/dək/
 ដឹកជញ្ជូន	/dək cʊəɲcuun/
 ដឹកដៃ	/dək day/
@@ -975,7 +975,7 @@
 ដោយចៃដន្យ	/daoy caydɑn/
 ដោយសារ	/daoy saa/
 ដោយសារតែ	/daoy saa tae/
-ដោយសេរី	/daoy seerǝy/
+ដោយសេរី	/daoy seerəy/
 ដោយឡែក	/daoy laek/
 ដោះសា	/dɑh saa/
 ដោះសោ	/dɑh sao/
@@ -1123,7 +1123,7 @@
 ថ្ងៃត្រង់	/tŋay trɑŋ/
 ថ្ងៃនេះ	/tŋay nih/
 ថ្ងៃផុតកំណត់	/tŋay pʰot kɑmnɑt/
-ថ្ងៃសីល	/tŋay sǝl/
+ថ្ងៃសីល	/tŋay səl/
 ថ្ងៃសៅរ៍	/tŋay sav/
 ថ្ងៃស្អែក	/tŋay sʔaek/
 ថ្ងៃអាទិត្យ	/tŋay ʔaatɨt/
@@ -1382,7 +1382,7 @@
 និយាយ	/niʔyiey/
 និយាយរួម	/niʔyiey ruəm/
 និយាយលេង	/niʔyiey leeŋ/
-និយាយលេងសើច	/niʔyiey leeŋ saǝc/
+និយាយលេងសើច	/niʔyiey leeŋ saəc/
 និវាសដ្ឋាន	/niʔviesattʰaan/
 និស្សិត	/nihsət/
 នីតា	/niitaa/
@@ -1423,7 +1423,7 @@
 បងប្អូន	/bɑɑŋ pʔoun/
 បងប្អូនជីដូន	/bɑɑŋ pʔoun cii doun/
 បង់លុយ	/bɑŋ luy/
-បងស្រី	/bɑɑŋ srǝy/
+បងស្រី	/bɑɑŋ srəy/
 បង្ក	/bɑŋkɑɑ/
 បង្កង់	/bɑŋkɑŋ/
 បង្កប់ន័យ	/bɑŋkɑp ney/
@@ -1612,7 +1612,7 @@
 បូក	/bouk/
 បូជា	/boucie/
 ប៊ូតុង	/buutoŋ/
-បូនើស	/bounǝǝs/
+បូនើស	/bounəəs/
 បូម	/boum/
 បូរ៉ា	/bouraa/
 ប៉ូលិស	/poulih/
@@ -1626,7 +1626,7 @@
 បើសិនជា	/baə sən cie/
 បៀតបៀន	/biət biən/
 បៀម	/biəm/
-បៀរ	/biǝ/
+បៀរ	/biə/
 បេះ	/beh/
 ប៉េងប៉ោះ	/peeŋ pɑh/
 បេះដូង	/beh douŋ/
@@ -1638,7 +1638,7 @@
 បែកញើស	/baek ɲəəh/
 បែកអេក	/baek ʔeek/
 បែងចែក	/baeŋ caek/
-បែនស្រូវ	/baen srǝv/
+បែនស្រូវ	/baen srəv/
 បែប	/baep/
 បែរ	/bae/
 បៃតង	/baytɑɑŋ/
@@ -1736,7 +1736,7 @@
 ប្រុងប្រយ័ត្ន	/proŋ prɑyat/
 ប្រុស	/proh/
 ប្រូតេអ៊ីន	/prouteeʔiin/
-ប្រូម៉ូសិន	/broumousǝn/
+ប្រូម៉ូសិន	/broumousən/
 ប្រើ	/praə/
 ប្រើប្រាស់	/praə prah/
 ប្រើឲ្យ	/praə ʔaoy/
@@ -1753,7 +1753,7 @@
 ប្លាស្ទិក	/plaastɨk/
 ប្លែក	/plaek/
 ប្អូន	/pʔoun/
-ប្អូនស្រី	/pʔoun srǝy/
+ប្អូនស្រី	/pʔoun srəy/
 ផង	/pʰɑɑŋ/
 ផងដែរ	/pʰɑɑŋ dae/
 ផត	/pʰɑɑt/
@@ -2066,7 +2066,7 @@
 មានការ	/mien kaa/
 មានគុណ	/mien kun/
 មានណា	/mien naa/
-មានទៅស្អី	/mien tɨv sʔǝy/
+មានទៅស្អី	/mien tɨv sʔəy/
 មានន័យ	/mien ney/
 មានបាន	/mien baan/
 មានប្រសាសន៍	/mien prɑsaah/
@@ -2365,7 +2365,7 @@
 រូបមន្ត	/ruup mʊən/
 រូបរាង	/ruup rieŋ/
 រ៉ូប៊ីនេទឹក	/roubiinee tɨk/
-រ៉ូលើខូសស្ទើ	/rou ləə kʰouh stǝǝ/
+រ៉ូលើខូសស្ទើ	/rou ləə kʰouh stəə/
 រួច	/ruəc/
 រួចរាល់	/ruəc roal/
 រួម	/ruəm/
@@ -2448,20 +2448,20 @@
 លូន	/luun/
 លួច	/luəc/
 លើ	/ləə/
-លើក	/lǝǝk/
-លើកក្រោយ	/lǝǝk kraoy/
-លើកមុន	/lǝǝk mun/
-លើកលែង	/lǝǝk lɛɛŋ/
-លើស	/lǝǝh/
-លើសលស់	/lǝǝh lʊəh/
+លើក	/ləək/
+លើកក្រោយ	/ləək kraoy/
+លើកមុន	/ləək mun/
+លើកលែង	/ləək lɛɛŋ/
+លើស	/ləəh/
+លើសលស់	/ləəh lʊəh/
 លឿង	/lɨəŋ/
 លឿន	/lɨən/
-លៀន	/liǝn/
+លៀន	/liən/
 លេខ	/leek/
 លេខរៀង	/leek riəŋ/
 លេខសម្ងាត់	/leek sɑmŋat/
 លេង	/leeŋ/
-លេងសើច	/leeŋ saǝc/
+លេងសើច	/leeŋ saəc/
 លេប	/leep/
 លេស	/leeh/
 លែង	/lɛɛŋ/
@@ -2474,7 +2474,7 @@
 ល្ងាច	/lŋiec/
 ល្បាប់	/lbap/
 ល្បី	/lbəy/
-ល្បឿន	/lbɨǝn/
+ល្បឿន	/lbɨən/
 ល្បែង	/lbaeŋ/
 ល្មម	/lmɔɔm/
 ល្មុត	/lmut/
@@ -2576,7 +2576,7 @@
 សណ្ឋាគារ	/sɑntʰaakie/
 សត្វ	/sat/
 សត្វពាហនៈ	/sat piehaʔnaʔ/
-សត្វល្អិត	/sat lʔǝt/
+សត្វល្អិត	/sat lʔət/
 សន្តិសុខ	/sɑnteʔ sok/
 សន្ទនា	/sɑnteaʔnie/
 សន្ទុះ	/sɑntuh/
@@ -2586,7 +2586,7 @@
 សន្លប់	/sɑnlɑp/
 សន្លឹក	/sɑnlək/
 សន្សំសំចៃ	/sɑnsɑm sɑmcay/
-សន្សើម	/sɑnsaǝm/
+សន្សើម	/sɑnsaəm/
 ស៊ប់	/sup/
 សំបក	/sɑmbɑɑk/
 សំបុក	/sɑmbok/
@@ -2623,13 +2623,13 @@
 សម្រាន្ត	/sɑmraan/
 សម្រាប់	/sɑmrap/
 សម្រុក	/sɑmrok/
-សម្រួល	/sɑmruǝl/
+សម្រួល	/sɑmruəl/
 សម្រេច	/sɑmrac/
 សម្រេចចិត្ត	/sɑmrac cət/
 សម្ល	/sɑmlɑɑ/
 សម្លប្រហើរ	/sɑmlɑɑ prɑhaə/
 សម្លាប់	/sɑmlap/
-សម្លឹង	/samlǝŋ/
+សម្លឹង	/samləŋ/
 សម្លៀកបំពាក់	/sɑmliək bɑmpeak/
 សម្អាត	/sɑmʔaat/
 ស៊យ	/sɔɔy/
@@ -2666,13 +2666,13 @@
 សាធារណៈ	/saatʰiereaʔnaʔ/
 សាន	/saan/
 សាប	/saap/
-សាបស្រូវ	/saap srǝv/
+សាបស្រូវ	/saap srəv/
 សាប៊ូ	/saabuu/
 សាប៊ូកក់សក់	/saabuu kɑk sɑk/
 សាប៊ូដុសខ្លួន	/saabuu doh kluən/
 សាមញ្ញ	/saamaɲ/
 សាមសិប	/saam səp/
-សាមីខ្លួន	/saamǝy kluən/
+សាមីខ្លួន	/saaməy kluən/
 សាយឡិន	/saaylən/
 សារ	/saa/, /saaraʔ/
 សារជាតិ	/saaraʔciet/
@@ -2706,12 +2706,12 @@
 ស៊ីម៉ងត៍	/siimɑŋ/
 ស៊ីរ៉ែន	/siiraen/
 សីល	/səl/
-សីលធម៌	/sel tʰoa/, /sǝl tʰoa/
+សីលធម៌	/sel tʰoa/, /səl tʰoa/
 ស៊ីសង	/sii sɑɑŋ/
 ស៊ីសាមុត	/siisaamut/
 សីហា	/səyhaa/
 សឹង	/səŋ/
-សឹងតែ	/sǝŋ tae/
+សឹងតែ	/səŋ tae/
 សឹងអី	/səŋ ʔəy/
 សឺរ៉ាំង	/səɨraŋ/
 សុំ	/som/
@@ -2756,12 +2756,12 @@
 សួត	/suət/
 សួន	/suən/
 សួរ	/suə/
-សួស្ដី	/suǝsdǝy/
+សួស្ដី	/suəsdəy/
 សើច	/saəc/
 សើម	/saəm/
-សៀត	/siǝt/
-សៀមរាប	/siǝm riep/
-សៀវភៅ	/siǝv pʰɨv/
+សៀត	/siət/
+សៀមរាប	/siəm riep/
+សៀវភៅ	/siəv pʰɨv/
 សេះ	/seh/
 សេចក្តី	/səckdəy/
 សេន	/seen/, /saen/
@@ -2774,7 +2774,7 @@
 សេវាកម្ម	/seevaakam/, /seeviekam/
 សែង	/saeŋ/
 សែន	/saen/
-សែសិប	/sae sǝp/
+សែសិប	/sae səp/
 សោះ	/sɑh/
 សោកស្ដាយ	/saok sdaay/
 សោភ័ណភាព	/saopʰoanapʰiep/
@@ -2783,8 +2783,8 @@
 ស្ករ	/skɑɑ/
 ស្ករស	/skɑɑ sɑɑ/
 ស្កុត	/skot/
-ស្កូវ	/skǝv/
-ស្កៀប	/skiǝp/
+ស្កូវ	/skəv/
+ស្កៀប	/skiəp/
 ស្គាល់	/skoal/
 ស្គាល់គ្នា	/skoal knie/
 ស្គែន	/skɛɛn/
@@ -2792,22 +2792,22 @@
 ស្ងាត់	/sŋat/
 ស្ងាប	/sŋaap/
 ស្ងួត	/sŋuət/
-ស្ងៀម	/sŋiǝm/
+ស្ងៀម	/sŋiəm/
 ស្ងោរ	/sŋao/
 ស្ដាំ	/sdam/
 ស្ដាប់	/sdap/
 ស្ដាប់ឮ	/sdap lɨɨ/
 ស្ដាយ	/sdaay/
-ស្ដី	/sdǝy/
-ស្ដីបន្ទោស	/sdǝy bɑntooh/
-ស្ដីឲ្យ	/sdǝy ʔaoy/
+ស្ដី	/sdəy/
+ស្ដីបន្ទោស	/sdəy bɑntooh/
+ស្ដីឲ្យ	/sdəy ʔaoy/
 ស្ដុក	/sdok/
 ស្ដើង	/sdaəŋ/
 ស្តង់	/stɑŋ/
 ស្តាតអូឡាំពិក	/staat ʔoulampɨk/
 ស្តាយ	/staay/
 ស្តុប	/stop/
-ស្ត្រី	/strǝy/
+ស្ត្រី	/strəy/
 ស្ថានទូត	/stʰaan tuut/
 ស្ថានភាព	/stʰaanpʰiep/
 ស្ថានីយ	/stʰaanii/
@@ -2818,23 +2818,23 @@
 ស្ទះចរាចរណ៍	/steah cɑraacɑɑ/
 ស្ទាប	/stiep/
 ស្ទូង	/stuuŋ/
-ស្ទើរ	/stǝǝ/
-ស្ទើរគ្រប់	/stǝǝ krup/
+ស្ទើរ	/stəə/
+ស្ទើរគ្រប់	/stəə krup/
 ស្នាក់	/snak/
 ស្នាម	/snaam/
-ស្និត	/snǝt/
-ស្និទ្ធស្នាល	/snǝt snaal/
+ស្និត	/snət/
+ស្និទ្ធស្នាល	/snət snaal/
 ស្នួ	/snuə/
 ស្នេហា	/snaehaa/
 ស្នែង	/snaeŋ/
 ស្បង់	/sbɑŋ/
 ស្បើយ	/sbaəy/
 ស្បែក	/sbaek/
-ស្បែកជើង	/sbaek cǝǝŋ/
-ស្បែកជើងប៉ាតា	/sbaek cǝǝŋ baa taa/
-ស្បែកជើងប៊ូ	/sbaek cǝǝŋ puu/
+ស្បែកជើង	/sbaek cəəŋ/
+ស្បែកជើងប៉ាតា	/sbaek cəəŋ baa taa/
+ស្បែកជើងប៊ូ	/sbaek cəəŋ puu/
 ស្បែកជើងផ្ទាត់	/sbaek cəəŋ ptoat/
-ស្បែកជើងស៊ក	/sbaek cǝǝŋ sɔɔk/
+ស្បែកជើងស៊ក	/sbaek cəəŋ sɔɔk/
 ស្ពាយ	/spiey/
 ស្ពៃ	/spey/
 ស្ម័គ្រចិត្ត	/smak cət/
@@ -2845,8 +2845,8 @@
 ស្មាអាវ	/smaa ʔaav/
 ស្មុគ	/smok/
 ស្មើ	/smaə/
-ស្មើគ្នា	/smaǝ knie/
-ស្មើនឹង	/smaǝ nɨŋ/
+ស្មើគ្នា	/smaə knie/
+ស្មើនឹង	/smaə nɨŋ/
 ស្មោះ	/smɑh/
 ស្មៅ	/smav/
 ស្រះ	/srah/
@@ -2856,13 +2856,13 @@
 ស្រង់	/srɑŋ/
 ស្រង់មតិ	/srɑŋ meaʔteʔ/
 ស្រងូតស្រងាត់	/srɑŋout srɑŋat/
-ស្រដៀង	/srɑdiǝŋ/
-ស្រដៀងនឹង	/srɑdiǝŋ nɨŋ/
+ស្រដៀង	/srɑdiəŋ/
+ស្រដៀងនឹង	/srɑdiəŋ nɨŋ/
 ស្រប	/srɑɑp/
 ស្របាល	/srɑbaal/
 ស្រពោន	/srɑpoon/
 ស្រមោល	/srɑmaol/
-ស្រវឹង	/srɑvǝŋ/
+ស្រវឹង	/srɑvəŋ/
 ស្រស់	/srɑh/
 ស្រស់បំព្រង	/srɑh bɑmprɔɔŋ/
 ស្រស់ស្រាយ	/srɑh sraay/
@@ -2882,7 +2882,7 @@
 ស្រាវិស្គី	/sraa viskii/
 ស្រី	/srəy/
 ស្រីខួច	/srəy kʰuəc/
-ស្រីពេជ្រ	/srǝy pɨc/
+ស្រីពេជ្រ	/srəy pɨc/
 ស្រីរ័ត្ន	/srəy roat/
 ស្រុក	/srok/
 ស្រុកកំណើត	/srok kɑmnaət/
@@ -2890,12 +2890,12 @@
 ស្រុស	/sroh/
 ស្រូប	/sroup/
 ស្រូវ	/srəv/
-ស្រូវប្រាំង	/srǝv praŋ/
-ស្រូវវស្សា	/srǝv voahsaa/
+ស្រូវប្រាំង	/srəv praŋ/
+ស្រូវវស្សា	/srəv voahsaa/
 ស្រួច	/sruəc/
 ស្រួល	/sruəl/
-ស្រួលខ្លួន	/sruǝl kluən/
-ស្រួលបួល	/sruǝl buəl/
+ស្រួលខ្លួន	/sruəl kluən/
+ស្រួលបួល	/sruəl buəl/
 ស្រេក	/sreek/
 ស្រេកទឹក	/sreek tɨk/
 ស្រេច	/srac/
@@ -2916,7 +2916,7 @@
 ស្លាបព្រា	/slaap prie/
 ស្លឹក	/slək/
 ស្លៀក	/sliək/
-ស្លៀកពាក់	/sliǝk peak/
+ស្លៀកពាក់	/sliək peak/
 ស្វ័យ	/svay/
 ស្វ័យប្រវត្តិ	/svay prɑvoat/
 ស្វាគមន៍	/svaakum/
@@ -2930,7 +2930,7 @@
 ស្អាត	/sʔaat/
 ស្អាតបាត	/sʔaat baat/
 ស្អិត	/sʔət/
-ស្អី	/sʔǝy/
+ស្អី	/sʔəy/
 ស្អុះ	/sʔoh/
 ស្អុយ	/sʔoy/
 ស្អុះស្អាប់	/sʔoh sʔap/
@@ -2952,7 +2952,7 @@
 ហាម	/haam/
 ហាល	/haal/
 ហាលថ្ងៃ	/haal tŋay/
-ហិត	/hǝt/
+ហិត	/hət/
 ហឹរ	/həl/, /haə/
 ហុច	/hoc/
 ហុត	/hot/
@@ -2964,22 +2964,22 @@
 ហូរ	/hou/
 ហូល	/houl/
 ហួត	/huət/
-ហួស	/huǝh/
+ហួស	/huəh/
 ហើប	/haəp/
-ហើមពោះ	/haǝm pʊəh/
-ហើយ	/haǝy/
-ហ៊ើយ	/hǝǝy/
-ហើយៗ	/haǝy haǝy/
-ហើយដៃ	/haǝy day/
-ហើយនិង	/haǝy nɨŋ/
-ហើរ	/haǝ/
-ហៀរ	/hiǝ/
-ហៀរសំបោរ	/hiǝ sɑmbao/
+ហើមពោះ	/haəm pʊəh/
+ហើយ	/haəy/
+ហ៊ើយ	/həəy/
+ហើយៗ	/haəy haəy/
+ហើយដៃ	/haəy day/
+ហើយនិង	/haəy nɨŋ/
+ហើរ	/haə/
+ហៀរ	/hiə/
+ហៀរសំបោរ	/hiə sɑmbao/
 ហេតុ	/haet/
 ហេតុការណ៍	/haet kaa/
 ហេតុផល	/haet pʰɑl/
 ហេតុអី	/haet ʔəy/
-ហេតុអ្វី	/haet ʔvǝy/
+ហេតុអ្វី	/haet ʔvəy/
 ហេមប័រហ្គឹរ	/hemboakɨ/
 ហេវ	/heev/
 ហេឡូ	/heelou/
@@ -2997,7 +2997,7 @@
 ហ្នឹង	/nɨŋ/
 ហ្នឹងណា	/nɨŋ naa/
 ហ្នឹងមែន	/nɨŋ mɛɛn/
-ហ្នឹងហើយ	/nɨŋ haǝy/
+ហ្នឹងហើយ	/nɨŋ haəy/
 ហ្នឹងអ៎	/nɨŋ ʔɑɑ/
 ហ្នុង	/noŋ/
 ហ្មត់	/mɑt/
@@ -3072,7 +3072,7 @@
 អត់ទោស	/ʔɑt tooh/
 អត់ធ្មត់	/ʔɑt tmʊət/
 អត់សូវ	/ʔɑt səv/
-អត់អំពើ	/ʔɑt ʔɑmpǝǝ/
+អត់អំពើ	/ʔɑt ʔɑmpəə/
 អត់អីណាអី	/ʔɑt ʔəy naa ʔəy/
 អត់អីទេ	/ʔɑt ʔəy tee/
 អត់អីអេ	/ʔɑt ʔəy ʔee/
@@ -3107,13 +3107,13 @@
 អំពូលភ្លើង	/ʔɑmpuul pləəŋ/
 អំពូលម៉ែត្រ	/ʔɑmpuul maet/
 អំពើ	/ʔɑmpəə/
-អំពើល្អ	/ʔɑmpǝǝ lʔɑɑ/
+អំពើល្អ	/ʔɑmpəə lʔɑɑ/
 អំពៅ	/ʔɑmpɨv/
 អភិវឌ្ឍ	/ʔaʔpʰiʔvoat/
 អម្បាញ់មិញ	/ʔɑmbaɲ mɨɲ/
 អរគុណ	/ʔɑɑ kun/
-អរុណសួស្ដី	/ʔaʔrun suǝsdǝy/
-អរូបី	/ʔaʔruupǝy/
+អរុណសួស្ដី	/ʔaʔrun suəsdəy/
+អរូបី	/ʔaʔruupəy/
 អស់	/ʔɑh/
 អស់កម្លាំង	/ʔɑh kɑmlaŋ/
 អសន្តិសុខ	/ʔaʔsɑnteʔsok/
@@ -3212,8 +3212,8 @@
 អូហ្វីស	/oufiih/
 អ៊ើ	/ʔəə/
 អើយ	/ʔaəy/, /ʔəəy/
-អៀន	/ʔiǝn/
-អៀម	/ʔiǝm/
+អៀន	/ʔiən/
+អៀម	/ʔiəm/
 អេ	/ʔee/
 អេ៎	/ʔee/
 អេក្រង់	/ʔeekrɑŋ/
@@ -3245,7 +3245,7 @@
 អ្នកលក់	/neak lʊək/
 អ្នកស្រែ	/neak srae/
 អ្វី	/ʔvəy/
-អ្វីមួយ	/ʔvǝymuǝy/
+អ្វីមួយ	/ʔvəymuəy/
 ឥដ្ឋ	/ʔət/
 ឥត	/ʔət/
 ឥរិយាបថ	/ʔeʔreʔyaabɑt/
@@ -3259,9 +3259,9 @@
 ឧបាសក	/ʔuʔbaasɑk/
 ឧស្ម័ន	/ʔusman/
 ឧស្សាហ៍	/ʔussaa/
-ឪពុក	/ʔǝv puk/
-ឪពុកម្ដាយ	/ʔǝv puk mdaay/
-ឪឡឹក	/ʔǝv lǝk/
+ឪពុក	/ʔəv puk/
+ឪពុកម្ដាយ	/ʔəv puk mdaay/
+ឪឡឹក	/ʔəv lək/
 ឫស	/rɨh/
 ឬ	/rɨɨ/
 ឬក៏	/rɨɨ kɑɑ/

@@ -5538,7 +5538,7 @@ borðsendann	/pɔrðsɛntan/
 borðsins	/pɔrðsɪns/
 borðsrönd	/pɔrðsrœnt/
 borðstofa	/pɔrðstɔva/
-borðstofu	/pɔrðstɔvʏ////
+borðstofu	/pɔrðstɔvʏ/
 borðstofuborðið	/pɔrðstɔvʏpɔrðɪð/
 borðstofuborðinu	/pɔrðstɔvʏpɔrðɪnʏ/
 borðstofunni	/pɔrðstɔvʏnɪ/
@@ -14099,7 +14099,7 @@ framtennurnar	/framtɛnʏtnar/
 framtíð	/framtʰið/
 framtíðar	/framtʰiðar/
 framtíðaráform	/framtʰiðarauːfɔrm/
-framtíðarhorfur	/~hɔrvʏr/
+framtíðarhorfur	/framtʰiðarhɔrvʏr/
 framtíðarinnar	/framtʰiðarɪnar/
 framtíðarmöguleika	/framtʰiðarmœːɣʏleika/
 framtíðarplönin	/framtʰiðarpʰlœːnɪn/
@@ -26521,7 +26521,7 @@ kjarasamnings	/cʰaːrasamniŋs/
 kjarasamningum	/cʰaːrasamniŋkʏm/
 kjarasamningur	/cʰaːrasamniŋkʏr/
 kjark	/cʰar̥k/
-kjarki	/cʰa0rcɪ/
+kjarki	/cʰar̥cɪ/
 kjarkinn	/cʰar̥cɪn/
 kjarkur	/cʰar̥kʏr/
 kjarkurinn	/cʰar̥kʏrɪn/
@@ -33347,7 +33347,7 @@ menntunarstig	/mɛn̥tʏnarstɪːɣ/
 Mercedes	/mɛr̥sɛtɛːs/
 merfolald	/mɛr̥fɔlalt/
 merg	/mɛrk/
-mergjar	/mɛr_ɲar/
+mergjar	/mɛr̥ɲar/
 mergur	/mɛrkʏr/
 mergurinn	/mɛrkʏrɪn/
 meri	/mɛːrɪ/
@@ -43984,7 +43984,7 @@ skekinn	/scɛːcɪn/
 skekja	/scɛːca/
 skekkja	/scɛhca/
 skekkju	/scɛhcʏ/
-skekur	/sj_ɛːkʏr/
+skekur	/sjɛːkʏr/
 skel	/scɛːl/
 skeldýr	/scɛltir/
 skelfa	/scɛlva/
@@ -49499,7 +49499,7 @@ súrefni	/suːrɛpnɪ/
 súrkrásar	/surkrausar/
 súrmjólk	/surmjoul̥k/
 súrsaðri	/sur̥saðrɪ/
-súrt	/su0rt/
+súrt	/sur̥t/
 súrtunnu	/surtʏnʏ/
 súru	/suːrʏ/
 Súsanna	/suːsana/
@@ -54221,7 +54221,7 @@ uxum	/ʏksʏm/
 útgefandi	/uːtcɛvantɪ/
 útgefenda	/uːtcɛvɛnta/
 útgefendum	/uːtcɛvɛntʏm/
-útgefendur	/uːt_ɛvɛntʏr/
+útgefendur	/uːtcɛvɛntʏr/
 útgefið	/uːtcɛvɪð/
 útgefin	/uːtcɛvɪn/
 útgefinn	/uːtcɛvɪn/
@@ -58962,7 +58962,7 @@ z	/sɛːta/
 þorsteina	/θɔr̥stɛjna/
 Þorsteini	/θɔr̥steinɪ/
 Þorsteinn	/θɔr̥steitn̥/
-Þorsteins	/θɔ0rsteins/
+Þorsteins	/θɔr̥steins/
 Þorsteinsbúð	/θɔr̥steinspuːð/
 Þorsteinsdóttir	/θɔr̥steinstouhtɪr/
 Þorsteinsdóttur	/θɔr̥steinstouhtʏr/
@@ -59613,7 +59613,7 @@ z	/sɛːta/
 þveran	/θvɛːran/
 Þverá	/θvɛːrau/
 þverbrotin	/θvɛrprɔtɪn/
-þverfaglegt	/θvɛ0faɣlɛxt/
+þverfaglegt	/θvɛr̥faɣlɛxt/
 þverflautu	/θvɛr̥flœitʏ/
 þvergarðinum	/θvɛrkarðɪnʏm/
 þverhnípt	/θvɛrn̥ift/
